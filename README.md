@@ -49,9 +49,9 @@ roku_ip = "192.168.1.101"
 
 ### iPhone/iPad with iOS 13 Shortcuts
 
-You can either fill in the pre-created [Apple Shortcuts link](https://www.icloud.com/shortcuts/dea546ab52794c2c8c86888943c2407b) (must have "Allow Untrusted Shortcuts" toggled under Shortcuts settings) or you can recreate it based off the below image:
+You can either fill in the pre-created [Apple Shortcuts link](https://www.icloud.com/shortcuts/8e8b7434df804b62a44176ffdf2b380d) (must have "Allow Untrusted Shortcuts" toggled under Shortcuts settings) or you can recreate it based off the below image:
 
-
+<img src="https://raw.githubusercontent.com/phosphotungstic/voku/main/shortcut.png" width="300px">
 
 Steps to recreate:
 
