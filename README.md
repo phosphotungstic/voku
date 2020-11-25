@@ -7,7 +7,7 @@ Siri → Roku TV API
 - Fuzzy matching for pronunciation inconsistencies
 - Tested with TCL Roku TVs
 - Should work with any Roku-enabled Smart TV
-
+- After setting up the shortcut, should be able to work with Homepod/Homepod mini
 
 
 ## Installation
